@@ -1,4 +1,4 @@
-# Porsche Sales Intelligence | All Black Piano
+# Porsche Sales Intelligence 
 
 Dashboard interativa de inteligência comercial desenvolvida em HTML, CSS e JavaScript para explorar uma base de vendas de veículos Porsche, com indicadores executivos, gráficos dinâmicos e análise de preferência por mercado.
 
